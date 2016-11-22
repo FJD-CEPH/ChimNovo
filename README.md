@@ -1,7 +1,7 @@
 ChimNovo
 ===================
 
-[![ChimNovo](ChimNovo/ChimNovo_Logo.png)](https://github.com/FJD-CEPH/ChimNovo)
+[![ChimNovo](https://github.com/FJD-CEPH/ChimNovo/ChimNovo_Logo.png)](https://github.com/FJD-CEPH/ChimNovo)
 
 ChimNovo is a bioinformatics tools designed for RNA-SES DeNovo Analysis.
 It's objectives are, starting from DeNovo reconscruted data, find :
