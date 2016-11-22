@@ -4,7 +4,7 @@ ChimNovo
 [![ChimNovo](https://github.com/FJD-CEPH/ChimNovo/blob/master/ChimNovo_Logo.png?raw=true)](https://github.com/FJD-CEPH/ChimNovo)
 
 ChimNovo is a bioinformatics tools designed for RNA-SES DeNovo Analysis.
-It's objectives are, starting from DeNovo reconscruted data, find :
+It's objectives are, starting from DeNovo assembly data, to get :
 
   - Fusion Genes
   - Intron Retain
@@ -12,7 +12,7 @@ It's objectives are, starting from DeNovo reconscruted data, find :
 
 
 You can also:
-  - Compare several population
+  - Compare several populations
   - Add variety of samples characteristics for comparison
   - Get a scored and order result list
 
